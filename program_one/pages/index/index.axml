@@ -1,0 +1,5 @@
+
+<view>
+ <web-view src="{{testHome}}"  onMessage="message"/>
+ <!-- <web-view src="https://appx/web-view.min.js" /> -->
+</view>
